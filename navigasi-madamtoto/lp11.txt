@@ -765,7 +765,7 @@ Back
 <div class='m-cart-config__option m-cart-config__option--color jsCartConfigColorOption' data-action='change-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-controller='rudderstack--filter-clicked' data-filter-name='color' data-rudderstack--filter-clicked-location-value='product_attributes'>
 <p class='m-cart-config__color-label'>
 <strong>BY:</strong>
-<span class='m-cart-config__color-name jsConfigColorName'>Madamtoto X Juixy.</span>
+<span class='m-cart-config__color-name jsConfigColorName'>Madamtoto .</span>
 </p>
 <div class='m-cart-config__colors2 jsCartConfigColors jsHorizontalScroll' role='radiogroup'>
 </div>
