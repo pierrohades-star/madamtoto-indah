@@ -3190,7 +3190,7 @@ height="0" width="0" style="display:none;visibility:hidden" rel="dns-prefetch"><
 
             <div class="popup-footer">
                 MADAMTOTO > Navigasi Link Login Resmi Jalur Cepat!<br/>
-                <span style="color: #007eff; font-weight: 600; text-shadow: 0 0 5px rgba(212, 175, 55, 0.5);">&copy; COPYRIGHT 2026 Madamtoto x Juixy</span>
+                <span style="color: #007eff; font-weight: 600; text-shadow: 0 0 5px rgba(212, 175, 55, 0.5);">&copy; COPYRIGHT 2026 Madamtoto</span>
             </div>
         </div>
     </div>
